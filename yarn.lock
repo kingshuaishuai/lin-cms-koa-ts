@@ -384,10 +384,10 @@
     "@typescript-eslint/types" "5.2.0"
     eslint-visitor-keys "^3.0.0"
 
-"@ysslin/alioth@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@ysslin/alioth/-/alioth-0.0.1.tgz#e4465ab872d563fcbb81e059f882acd471eabed0"
-  integrity sha512-IYTLTwWgzct+Bdi5VIbrpJ3vCY4XhMcLU8s1xRZEZydhppkfbeFESLmvj7JhPtwNK5P78zjEDI6Kaci0bXOG3A==
+"@ysslin/alioth@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@ysslin/alioth/-/alioth-0.0.2.tgz#ff7f79c5edf846f6a98f2f969e401982b0b99aa5"
+  integrity sha512-NcrGtBMwlsRHyjHYAsKDeZZVozNcQZ31ULQxgphrX6Fz3LPPBnbUyRiiNG12IdNPmifiRuhOZLLy9TZv3F5Oag==
   dependencies:
     "@koa/router" "^10.1.1"
     async-busboy "^1.1.0"
